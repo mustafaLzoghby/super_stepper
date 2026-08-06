@@ -31,7 +31,7 @@ Or add it manually:
 
 ```yaml
 dependencies:
-  super_stepper: ^0.1.1
+  super_stepper: ^0.1.2
 ```
 
 For local package development, use a path dependency:
