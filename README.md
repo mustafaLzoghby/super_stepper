@@ -4,12 +4,7 @@ A highly customizable animated stepper for Flutter. It includes useful defaults 
 
 ## Demo
 
-<video controls playsinline width="360">
-  <source src="media/demo.m4v" type="video/mp4">
-  <a href="media/demo.m4v">Play the Super Stepper demo video</a>
-</video>
-
-[Play the demo video](media/demo.m4v)
+<img src="media/demo.gif" alt="Super Stepper demo" width="360">
 
 ## Features
 
@@ -36,7 +31,7 @@ Or add it manually:
 
 ```yaml
 dependencies:
-  super_stepper: ^0.1.0
+  super_stepper: ^0.1.1
 ```
 
 For local package development, use a path dependency:

@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Replaced the README video demo with an animated GIF for reliable preview rendering.
+
 ## 0.1.0
 
 - Initial release.
