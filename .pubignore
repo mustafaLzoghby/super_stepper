@@ -1,0 +1,11 @@
+.dart_tool/
+.packages
+build/
+pubspec.lock
+.idea/
+.vscode/
+.DS_Store
+example/.dart_tool/
+example/build/
+example/pubspec.lock
+media/demo.mov
