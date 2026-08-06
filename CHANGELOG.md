@@ -1,3 +1,7 @@
+## 0.1.2
+
+- Fixed the README demo GIF URL so it renders correctly on pub.dev.
+
 ## 0.1.1
 
 - Replaced the README video demo with an animated GIF for reliable preview rendering.

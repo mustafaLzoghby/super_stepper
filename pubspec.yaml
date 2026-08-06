@@ -1,6 +1,6 @@
 name: super_stepper
 description: A highly customizable animated Flutter stepper with controller support, builders, RTL, horizontal and vertical layouts.
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/mustafaLzoghby/super_stepper
 repository: https://github.com/mustafaLzoghby/super_stepper
 issue_tracker: https://github.com/mustafaLzoghby/super_stepper/issues

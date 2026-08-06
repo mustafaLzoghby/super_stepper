@@ -4,7 +4,7 @@ A highly customizable animated stepper for Flutter. It includes useful defaults 
 
 ## Demo
 
-<img src="media/demo.gif" alt="Super Stepper demo" width="360">
+<img src="https://raw.githubusercontent.com/mustafaLzoghby/super_stepper/main/media/demo.gif" alt="Super Stepper demo" width="360">
 
 ## Features
 
